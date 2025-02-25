@@ -1,7 +1,7 @@
 # dashboard_tplink_t2600
 Dashboard para monitoramento Switch Tp-Link t2600 24p PoE
 
-![Title](image/dashboard tplink t2600 PoE.png)
+![Title](image/dashboardtplinkt2600PoE.png)
 
 Data Soure Zabbix = alexanderzobnin-zabbix-datasource
 
